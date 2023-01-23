@@ -1,0 +1,132 @@
+
+ .card{
+    /* border: 2px solid black; */
+    border-radius: 5px;
+    width: auto;
+    height: 100vh;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+
+ }
+ /* .picture{
+   height: 600px;
+   width: 100%;
+   border: 1px solid black;
+ } */
+ .image{
+    width: 350px;
+    height: 500px;
+    margin-left: 400px;
+    margin-top: 20px;
+ }
+ .header{
+   display: flex;
+   border: 2px solid ;
+   border-radius: 5px;
+}
+.camera-icon{
+   margin-left: auto;
+   margin-right: 25px;
+   align-self: center;
+}
+.logo{
+   margin-right: auto;
+   margin-left: 25px;
+   align-self: center;
+}
+.content-text{
+  
+   color: #006238;
+   text-align: right;
+   font-size: 50px;
+   margin-top: -350px;
+   margin-right: 200px;
+}
+.button{
+   margin-left: 950px;
+   border-radius: 14px;
+   border:3px solid #006238;
+   text-align: center;
+   width: 110px;
+   height: 50px;
+   font-size: large;
+   padding: auto;
+   color: #006238;
+}
+.form-card{
+   width: 600px;
+   height: 250px;
+   border: 1px solid #707070;
+   margin-top: 100px;
+   margin-left: 400px;
+   background-color: #707070;
+   display: grid;
+   
+}
+.description{
+   width: 500px;
+   height: 32px;
+
+}
+.author{
+   width: 200px;
+   height: 32px;
+   border-top: 83px;
+   border-left: 50px;
+   border-bottom: 135px;
+   border-right: 350px;
+}
+.location{
+   width: 200px;
+   height: 32px;
+}
+.file{
+   width: 400px;
+   height: 32px;
+}.post{
+   width: 100px;
+   height: 32px;
+   border-radius: 5px;
+   border: 1px solid #707070;
+   background-color: #04aa6d;
+   cursor: pointer;
+}
+.post:hover{
+   background-color: aquamarine;
+}
+.postimg{
+   width: 700px;
+   height: auto;
+   margin-left: 400px;
+   margin-top: 50px;
+   /* border: 1px solid gray; */
+
+}
+.post-name{
+   color: #000000;
+   margin-left:32px;
+}
+.post-location{
+   color: #707070;
+   margin-left: 32px;
+}
+.detail{
+   width: 670px;
+   height: 132px;
+   margin-left: 32px;
+   width: 600px;
+}
+.date{
+   text-align: right;
+   font-size: small;
+}
+.post-description{
+   color: #000000;
+   border: 1px solid gray;
+}
+.likes-section{
+   width: 600px;
+   height: 32px;
+}
